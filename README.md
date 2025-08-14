@@ -1,4 +1,4 @@
-# [code_night]
+# code_night
 
 Breve descrição: Explorando ideias em horario de estudos, tentando organizar projetos, e se tudo correr bem, o projeto funciona.
 
